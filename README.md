@@ -1,6 +1,8 @@
 # crch
 Censored and Truncated Regression with Conditional Heteroscedasticy Use crch With (In) R Software
 
+Heteroscedastic Censored and Truncated Regression Use crch With (In) R Software
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
