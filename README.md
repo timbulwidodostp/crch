@@ -3,6 +3,8 @@ Censored and Truncated Regression with Conditional Heteroscedasticy Use crch Wit
 
 Heteroscedastic Censored and Truncated Regression Use crch With (In) R Software
 
+https://www.youtube.com/watch?v=-PCBkHQ_2kk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
